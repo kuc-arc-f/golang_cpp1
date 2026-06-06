@@ -1,4 +1,4 @@
-﻿# golang_cpp1_pri
+﻿# golang_cpp1
 
  Version: 0.9.1
 
