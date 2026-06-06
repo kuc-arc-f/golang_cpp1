@@ -5,6 +5,9 @@
 extern "C" {
 #endif
 
+// Goから呼ぶための関数。文字列は const char* で受ける
+void call_cpp_print(const char* text);
+
 // 1. 文字列を取得する関数
 char* get_cpp_message();
 

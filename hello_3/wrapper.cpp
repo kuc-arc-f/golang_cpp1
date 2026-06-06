@@ -1,7 +1,14 @@
 #include "wrapper.h"
-#include "mycpp.h"
 #include <cstdlib>
 #include <cstring>
+//#include "mycpp.h"
+#include "include/mycpp.hpp"
+
+void call_cpp_print(const char* text) {
+    Printer printer;
+    // const char* を std::string に変換してC++のメソッドに渡す
+    printer.PrintMessage(std::string(text));
+}
 
 char* get_cpp_message() {
     Provider provider;
