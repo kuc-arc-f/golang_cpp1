@@ -29,6 +29,7 @@ go build
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/b1e6fcd8285233#comment-26d9420e3c9bd8
 
 ***
 
