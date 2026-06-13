@@ -59,7 +59,7 @@ go mod tidy
 make plugin
 ```
 
-* go buils
+* go build
 ```
 go build -o app main.go
 ```
