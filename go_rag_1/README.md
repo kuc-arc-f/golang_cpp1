@@ -78,6 +78,7 @@ go build -o app main.go
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/3d848ac18a27a0
 
 ***
 
